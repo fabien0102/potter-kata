@@ -1,0 +1,21 @@
+{
+  "name": "harry-potter-kata",
+  "version": "0.0.0",
+  "description": "http://www.codingdojo.org/cgi-bin/index.pl?action=browse&id=KataPotter&revision=41",
+  "main": "index.js",
+  "dependencies": {
+    "lodash": "^4.13.1"
+  },
+  "devDependencies": {
+    "mocha": "^2.5.3",
+    "should": "^8.4.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "kata"
+  ],
+  "author": "fabien0102",
+  "license": "MIT"
+}
